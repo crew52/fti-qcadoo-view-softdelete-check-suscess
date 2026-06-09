@@ -37,7 +37,7 @@
 		
 		<link rel="shortcut icon" href="/qcadooView/public/img/core/icons/favicon.png">
 
-		<script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/_jquery-1.4.2.min.js?ver=2025_12_09_13_51"></script>
+		<script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/_jquery-1.4.2.min.js?ver=2026_06_08_10_41"></script>
 		
 		<style type="text/css">
 			body {
@@ -144,7 +144,7 @@
 				
 			}
 		</style>
-		<link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2025_12_09_13_51" type="text/css" />
+		<link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2026_06_08_10_41" type="text/css" />
 		
 		<script type="text/javascript">
 

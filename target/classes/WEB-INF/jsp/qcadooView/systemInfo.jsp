@@ -62,6 +62,6 @@
 				<div class="systemInfoItem">
 					<span
 						class="systemInfoItemLabel">${translationsMap['qcadooView.systemInfo.buildRevision.label']}</span>
-					<span class="systemInfoItemValue">null</span>
+					<span class="systemInfoItemValue">53b431ea1f9ce02a0d57b66e58e65c8f836fa931</span>
 				</div>
 			</div>

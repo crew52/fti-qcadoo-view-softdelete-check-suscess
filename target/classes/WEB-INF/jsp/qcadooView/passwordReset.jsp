@@ -39,25 +39,25 @@
         <title>${applicationDisplayName} :: forgot password</title>
 
         <link rel="stylesheet"
-            href="${pageContext.request.contextPath}/qcadooView/public/css/core/lib/bootstrap.min.css?ver=2025_12_09_13_51"
+            href="${pageContext.request.contextPath}/qcadooView/public/css/core/lib/bootstrap.min.css?ver=2026_06_08_10_41"
             type="text/css"/>
         <link rel="stylesheet"
-            href="${pageContext.request.contextPath}/qcadooView/public/css/core/lib/languages.min.css?ver=2025_12_09_13_51"
+            href="${pageContext.request.contextPath}/qcadooView/public/css/core/lib/languages.min.css?ver=2026_06_08_10_41"
             type="text/css"/>
         <link rel="stylesheet"
-            href="${pageContext.request.contextPath}/qcadooView/public/css/core/passwordReset-min.css?ver=2025_12_09_13_51"
+            href="${pageContext.request.contextPath}/qcadooView/public/css/core/passwordReset-min.css?ver=2026_06_08_10_41"
             type="text/css"/>
 
         <script type="text/javascript"
-            src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/jquery-3.2.1.min.js?ver=2025_12_09_13_51"></script>
+            src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/jquery-3.2.1.min.js?ver=2026_06_08_10_41"></script>
         <script type="text/javascript"
-            src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/popper.min.js?ver=2025_12_09_13_51"></script>
+            src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/popper.min.js?ver=2026_06_08_10_41"></script>
         <script type="text/javascript"
-            src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/bootstrap.min.js?ver=2025_12_09_13_51"></script>
+            src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/bootstrap.min.js?ver=2026_06_08_10_41"></script>
         <script type="text/javascript"
-            src="${pageContext.request.contextPath}/qcadooView/public/js/core/qcd/utils/serializator.js?ver=2025_12_09_13_51"></script>
+            src="${pageContext.request.contextPath}/qcadooView/public/js/core/qcd/utils/serializator.js?ver=2026_06_08_10_41"></script>
         <script type="text/javascript"
-            src="${pageContext.request.contextPath}/qcadooView/public/js/core/passwordReset-min.js?ver=2025_12_09_13_51"></script>
+            src="${pageContext.request.contextPath}/qcadooView/public/js/core/passwordReset-min.js?ver=2026_06_08_10_41"></script>
     </head>
 
     <body class="text-center" role="document">

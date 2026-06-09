@@ -33,21 +33,21 @@
     <head>
         <c:choose>
             <c:when test="${useCompressedStaticResources}">
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/qcadoo-min.css?ver=2025_12_09_13_51" type="text/css" />
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2025_12_09_13_51" type="text/css" />
-                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/_jquery-1.4.2.min.js?ver=2025_12_09_13_51"></script>
-                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/jquery-ui-1.8.5.custom.min.js?ver=2025_12_09_13_51"></script>
-                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/jquery.jqGrid.min.js?ver=2025_12_09_13_51"></script>
-                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/qcadoo-min.js?ver=2025_12_09_13_51"></script>
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/qcadoo-min.css?ver=2026_06_08_10_41" type="text/css" />
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2026_06_08_10_41" type="text/css" />
+                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/_jquery-1.4.2.min.js?ver=2026_06_08_10_41"></script>
+                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/jquery-ui-1.8.5.custom.min.js?ver=2026_06_08_10_41"></script>
+                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/jquery.jqGrid.min.js?ver=2026_06_08_10_41"></script>
+                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/qcadoo-min.js?ver=2026_06_08_10_41"></script>
             </c:when>
             <c:otherwise>
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/core/login.css?ver=2025_12_09_13_51" type="text/css" />
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/crud/components/form.css?ver=2025_12_09_13_51" type="text/css" />
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2025_12_09_13_51" type="text/css" />
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/core/login.css?ver=2026_06_08_10_41" type="text/css" />
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/crud/components/form.css?ver=2026_06_08_10_41" type="text/css" />
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2026_06_08_10_41" type="text/css" />
 
-                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/_jquery-1.4.2.min.js?ver=2025_12_09_13_51"></script>
-                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/qcd/utils/serializator.js?ver=2025_12_09_13_51"></script>
-                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/qcd/utils/logger.js?ver=2025_12_09_13_51"></script>
+                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/lib/_jquery-1.4.2.min.js?ver=2026_06_08_10_41"></script>
+                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/qcd/utils/serializator.js?ver=2026_06_08_10_41"></script>
+                <script type="text/javascript" src="${pageContext.request.contextPath}/qcadooView/public/js/core/qcd/utils/logger.js?ver=2026_06_08_10_41"></script>
             </c:otherwise>
         </c:choose>
 

@@ -1862,7 +1862,7 @@ body {
     width: 81px;
     height: 24px;
     margin: auto;
-    background-image: url('/qcadooView/public/css/core/images/login/logo1.png');
+    background-image: url('/qcadooView/public/css/core/images/login/logo_ftig.png');
     background-repeat: no-repeat;
     margin-top: 6px;
     margin-bottom: 16px;
@@ -3399,7 +3399,7 @@ body {
                 width: 81px;
                 height: 24px;
                 margin: auto;
-                background-image: url('/qcadooView/public/css/core/images/login/logo1');
+                background-image: url('/qcadooView/public/css/core/images/login/logo_ftig');
                 background-repeat: no-repeat;
                 margin-top: 6px;
                 margin-bottom: 16px;

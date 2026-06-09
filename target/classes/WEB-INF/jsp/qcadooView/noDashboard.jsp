@@ -33,13 +33,13 @@
     <head>
         <c:choose>
             <c:when test="${useCompressedStaticResources}">
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/qcadoo-min.css?ver=2025_12_09_13_51" type="text/css" />
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2025_12_09_13_51" type="text/css" />
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/qcadoo-min.css?ver=2026_06_08_10_41" type="text/css" />
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2026_06_08_10_41" type="text/css" />
             </c:when>
             <c:otherwise>
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/core/dashboard.css?ver=2025_12_09_13_51" type="text/css" />
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/core/menu/style.css?ver=2025_12_09_13_51" type="text/css" />
-                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2025_12_09_13_51" type="text/css" />
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/core/dashboard.css?ver=2026_06_08_10_41" type="text/css" />
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/core/menu/style.css?ver=2026_06_08_10_41" type="text/css" />
+                <link rel="stylesheet" href="${pageContext.request.contextPath}/qcadooView/public/css/custom.css?ver=2026_06_08_10_41" type="text/css" />
             </c:otherwise>
         </c:choose>
     </head>
